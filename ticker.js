@@ -9,41 +9,40 @@
 
 (function($){
   $.fn.list_ticker = function(options){
+      //var options;
+      var defaults = {
+          speed:4000,
+	        effect:'slide'
+      };
     
-    var defaults = {
-      speed:4000,
-	  effect:'slide'
-    };
-    
-    var options = $.extend(defaults, options);
-    
-    return this.each(function(){
+      options = $.extend(defaults, options);
       
-      var obj = $(this);
-      var list = obj.children();
-      list.not(':first').hide();
+      return this.each(function(){
       
-      setInterval(function(){
-        
-        list = obj.children();
-        list.not(':first').hide();
-        
-        var first_li = list.eq(0)
-        var second_li = list.eq(1)
-		
-		if(options.effect == 'slide'){
-			first_li.slideUp();
-			second_li.slideDown(function(){
-				first_li.remove().appendTo(obj);
-			});
-		} else if(options.effect == 'fade'){
-			first_li.fadeOut(function(){
-				second_li.fadeIn();
-				first_li.remove().appendTo(obj);
-			});
-		}
-      }, options.speed)
-    });
+          var obj = $(this);
+          var list = obj.children();
+          list.not(':first').hide();
+          
+          setInterval(function(){
+              list = obj.children();
+              list.not(':first').hide();
+              
+              var first_li = list.eq(0);
+              var second_li = list.eq(1);
+		          
+		          if(options.effect == 'slide'){
+			            first_li.slideUp();
+			            second_li.slideDown(function(){
+				              first_li.remove().appendTo(obj);
+			            });
+		          } else if(options.effect == 'fade'){
+			            first_li.fadeOut(function(){
+				              second_li.fadeIn();
+				              first_li.remove().appendTo(obj);
+			            });
+		          }
+          }, options.speed);
+      });
   };
 })(jQuery);
 
@@ -77,7 +76,7 @@ $(document).ready(function() {
     $(d.Events).each(function(i, e) {
       $("#events").append("<li>" + entryText(e) + "</li>");
     });
-    $("ul").list_ticker({ speed:8000, effect:'fade' });
+    $("#ticker ul").list_ticker({ speed:8000, effect:'fade' });
 
     $("#ticker").fadeIn();
   });

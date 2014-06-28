@@ -1,57 +1,63 @@
 <html>
-<head>
-    <title>Really Basic History Data API</title>
-    <link href="/main.css" media="screen" rel="Stylesheet" type="text/css" />
-	<!--[if !IE 7]><style type="text/css">#wrap {display:table;height:100%}</style><![endif]-->
-
+  <head>
+    <title>Today in History</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
-	<script type="text/javascript" src="http://www.google.com/jsapi"></script>
-	<script>
-	  google.load("jquery", "1.4.2");
-	</script>
-	<script type="text/javascript">
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-98596-11']);
-	  _gaq.push(['_trackPageview']);
-	  
-	  (function() {
+
+    <link rel="stylesheet" href="/pure-min.css">
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/grids-responsive-min.css">
+
+    <link rel="stylesheet" href="/content.css">
+	  <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+	  <script>
+	    google.load("jquery", "1.4.2");
+	  </script>
+	  <script type="text/javascript">
+	    var _gaq = _gaq || [];
+	    _gaq.push(['_setAccount', 'UA-98596-11']);
+	    _gaq.push(['_trackPageview']);
+	    
+	    (function() {
       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
-	</script>
-  <script type="text/javascript" src="/api.js"></script>
-  <script type="text/javascript" src="/ticker.js"></script>
-</head>
-
-<body>
-  <div id="wrap">
-	  <div id="main">
-      <div id="header">
-		    <h1>Really Basic History Data API</h1>
-		    <div id="nav">
-		      <a href="/">home</a> || 
-		      <a href="/ticker">ticker</a> || 
-		      <a href="http://muffinlabs.com/">muffinlabs</a>
-		    </div>
-      </div>
-      <div id="content">
-        <h1 id="today">Today in History</h1>
-        <div id="ticker">
-          <h2>Events</h2>	<ul id="events"></ul>
-          <div style="clear:both"></div>
-          
-          <h2>Births</h2>	<ul id="births"></ul>
-          <div style="clear:both"></div>
-          
-          <h2>Deaths</h2>	<ul id="deaths"></ul>
-          <div style="clear:both"></div>
-
-          <div>
-            <a id="learn-more" href="">learn more on Wikipedia</a>
-          </div>
+	    })();
+	  </script>
+    <script type="text/javascript" src="/api.js"></script>
+    <script type="text/javascript" src="/ticker.js"></script>
+  </head>
+  <body>
+    <div id="layout" class="pure-g">
+      <div class="sidebar pure-u-1 pure-u-md-1-4">
+        <div class="header">
+          <hgroup>
+		        <h1 class="brand-title">Today in History API</h1>
+            <h2 class="brand-tagline">Things happened today, let's list them out!</h2>
+          </hgroup>
         </div>
-        
+      </div>
+      <div class="content pure-u-1 pure-u-md-3-4">
+        <h1 id="today">Today in History</h1>
+        <div>
+          <a id="learn-more" href="">learn more on Wikipedia</a>
+        </div>          
+          
+        <div id="ticker" class="pure-g">
+          <h2 class="pure-u-5-5">Events</h2>
+          <div class="pure-u-5-5">
+            <ul id="events"></ul>
+          </div>
+          <div class="pure-u-1-2">
+            <h2>Births</h2>
+            <ul id="births"></ul>
+          </div>
+          <div class="pure-u-1-2">
+            <h2>Deaths</h2>
+            <ul id="deaths"></ul>
+          </div>             
+        </div>
+
         <h3>What is it?</h3>
         <p>I wanted to write a 'this day in history' twitter bot, which posts events which 
           happened on this day.  There's a few people on Twitter doing this already, but I
@@ -63,29 +69,151 @@
         
         <p>Just for kicks, I wrote a pretty simple JS interface as well.  You can see it in action on
           the <a href="/ticker">Today's History</a> page.</p>
-
-
-        <h3>How To Use</h3>
+          
+          
+        <h3>API</h3>
+        <p>Here's a simple API you can use to find out what happened
+        today:</p>
         <p>Get today's history in JSON format at <a href="/date">/date</a></p>
+        <pre><code>
+curl http://localhost:8001/date
+
+{
+  "date":"June 27",
+  "url":"http://wikipedia.org/wiki/June_27",
+  "data":{
+    "Events":[
+      {
+        "year": "1759",
+        "html": "&lt;a href=\"http://wikipedia.com/wiki/1759\" title=\"1759\"&gt;1759&lt;/a&gt; – General &lt;a href=\"http://wikipedia.com/wiki/James_Wolfe\" title=\"James Wolfe\"&gt;James Wolfe&lt;/a&gt; begins the siege of &lt;a href=\"http://wikipedia.com/wiki/Quebec\" title=\"Quebec\"&gt;Quebec&lt;/a&gt;.",
+        "text": "General James Wolfe begins the siege of Quebec.",
+        "links": [
+          {
+            "subject": "James Wolfe",
+            "title": "James Wolfe",
+            "link": "http://wikipedia.com/wiki/James_Wolfe"
+          },
+          {
+            "subject": "Quebec",
+            "title": "Quebec",
+            "link": "http://wikipedia.com/wiki/Quebec"
+          }
+        ]
+      },
+      ...
+      // lots of other data
+      ...
+    ],
+    "Births":[
+      {
+        "year": "2009",
+        "html": "&lt;a href=\"http://wikipedia.com/wiki/2009\" title=\"2009\"&gt;2009&lt;/a&gt; – &lt;a href=\"http://wikipedia.com/wiki/Fayette_Pinkney\" title=\"Fayette Pinkney\"&gt;Fayette Pinkney&lt;/a&gt;, American sin
+ger (&lt;a href=\"http://wikipedia.com/wiki/The_Three_Degrees\" title=\"The Three Degrees\"&gt;The Three Degrees&lt;/a&gt;) (b. 1948)",
+        "text": "Fayette Pinkney, American singer (The Three Degrees) (b. 1948)",
+        "links": [
+          {
+            "subject": "Fayette Pinkney",
+            "title": "Fayette Pinkney",
+            "link": "http://wikipedia.com/wiki/Fayette_Pinkney"
+          },
+          {
+            "subject": "The Three Degrees",
+            "title": "The Three Degrees",
+            "link": "http://wikipedia.com/wiki/The_Three_Degrees"
+          }
+        ]
+      }
+      ...
+      // lots of other data
+      ...
+    ],
+    "Deaths":[
+      {
+        "year": "2013",
+        "text": "Peter Waieng, Papua New Guinea politician (b. 1966)",
+        "links": [
+          {
+            "title": "Peter Waieng",
+            "link": "/wiki/Peter_Waieng"
+          }
+        ]
+      }
+      ...
+      // lots of other data
+      ...
+    ]
+  }
+}
+        </code></pre>
         <p>Get another day's history in JSON at <strong>/date/month/day</strong> where month and day are numbers.
           For example, <a href="/date/2/14">/date/2/14</a> to get the history for February 14th.
         </p>
 
-        <p>The data is split into births, deaths, and events.  Each element is a hash with 
-          one 'text' field.  I might add a URL or some other fields later.</p>
+        <pre><code>
+curl http://localhost:8001/date/2/14
 
-        <p>Take a look at <a href="/api.js">the API javascript</a> or the
-          <a href="/ticker">history ticker</a> to see the code in use.</p>
-	    </div>
-	  </div>
-  </div>
+{
+  "date": "February 14",
+  "url": "http://wikipedia.org/wiki/February_14",
+   "data":{
+    "Events":[ // data here // ],
+    "Births":[ // data here // ],
+    "Deaths":[ // data here // ]
+  }
+}
+        </code></pre>
 
-  <div id="footer">
-    <div>
-      <small>&copy; 2014 muffinlabs.com</small>
-		  <a href='http://github.com/muffinista/really-simple-history-api'>code</a>
+        <p>The data is split into births, deaths, and events. Each
+          element is a hash that looks a little like this:</p>
+        <pre><code>
+      {
+        "year": "42 BC",
+        "html": "&lt;a href=\"http://wikipedia.com/wiki/42_BC\" title=\"42 BC\"&gt;42 BC&lt;/a&gt; – The &lt;a href=\"http://wikipedia.com/wiki/Roman_Senate\" title=\"Roman Senate\"&gt;Roman Senate&lt;/a&gt; posthumously &lt;a href=\"http://wikipedia.com/wiki/Apotheosis\" title=\"Apotheosis\"&gt;deifies&lt;/a&gt; &lt;a href=\"http://wikipedia.com/wiki/Julius_Caesar\" title=\"Julius Caesar\"&gt;Julius Caesar&lt;/a&gt;",
+        "text": "The Roman Senate posthumously deifies Julius Caesar",
+        "links": [
+          {
+            "subject": "Roman Senate",
+            "title": "Roman Senate",
+            "link": "http://wikipedia.com/wiki/Roman_Senate"
+          },
+          {
+            "subject": "deifies",
+            "title": "Apotheosis",
+            "link": "http://wikipedia.com/wiki/Apotheosis"
+          },
+          {
+            "subject": "Julius Caesar",
+            "title": "Julius Caesar",
+            "link": "http://wikipedia.com/wiki/Julius_Caesar"
+          }
+        ]
+      }
+        </code></pre>
+
+        <p>Depending on your needs, you can either use the
+        pre-rendered HTML, or some sort of combination of the text and
+        subject links.</p>
+
+        <p>There's also a very simple <a href="/api.js">Javascript
+            API</a> which you can use to put history data on a website.
+          You can also check out the <a href="/ticker">history
+            ticker</a> to see the code in use.</p>
+
+        <p>And here's @happened_today on Twitter:</p>
+
+        <a class="twitter-timeline" href="https://twitter.com/happened_today" data-widget-id="482559571030851584">Tweets by @happened_today</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+        <div class="footer">
+          <div class="pure-menu pure-menu-horizontal pure-menu-open">
+            <ul>
+              <li><a href="http://muffinlabs.com">muffinlabs</a></li>
+              <li><a href="http://github.com/muffinista/really-simple-history-api">github</a></li>
+            </ul>
+          </div>
+        </div>
+        
+      </div>
     </div>
-  </div>
-
-</body>
+  </body>
 </html>

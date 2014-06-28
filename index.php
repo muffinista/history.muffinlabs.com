@@ -17,11 +17,18 @@ $app->get('/date', function () {
     $month = date('m');
     $day = date('d');
     $result = loadData($month, $day);
+
+    if ( $_GET['callback']) { 
+      $result = $_GET['callback'] . "(" . $result . ")";
+    }
     echo $result;
 });
 
 $app->get('/date/:month/:day', function ($month, $day) {
     $result = loadData($month, $day);
+    if ( $_GET['callback']) { 
+      $result = $_GET['callback'] . "(" . $result . ")";
+    }
     echo $result;
 });
 $app->run();
