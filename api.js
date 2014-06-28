@@ -1,4 +1,6 @@
 historyData = {
+    host: "history.muffinlabs.com",
+
     /*
      * Lightweight JSONP fetcher
      * Copyright 2010-2012 Erik Karlsson. All rights reserved.
@@ -79,8 +81,7 @@ historyData = {
     }()),
 	  load : function(options) {
 		    var callback, month, day, host;
-        host = "localhost:8001";
-
+ 
 		    if ( typeof(options) == "function" ) {
 			      callback = options;
 		    }
@@ -88,9 +89,9 @@ historyData = {
 			      callback = options.callback;
 			      month = options.month;
 			      day = options.day;
-		    }
+	      }
         
-		    this.jsonP.get('/date', {}, function(tmp) {
+		    this.jsonP.get(this.host + '/date', {}, function(tmp) {
 				    historyData.data = tmp.data;
 				    historyData.url = tmp.url;
 				    historyData.date = tmp.date;

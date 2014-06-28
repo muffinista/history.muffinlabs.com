@@ -13,20 +13,22 @@ $app->get('/', function () use($app) {
     $app->render('index.html');
 });
 
-$app->get('/date', function () {
+$app->get('/date', function () use($app) {
+    $app->contentType('application/javascript; charset=utf-8');
     $month = date('m');
     $day = date('d');
     $result = loadData($month, $day);
 
-    if ( $_GET['callback']) { 
+    if ( isset($_GET['callback'])) { 
       $result = $_GET['callback'] . "(" . $result . ")";
     }
     echo $result;
 });
 
-$app->get('/date/:month/:day', function ($month, $day) {
+$app->get('/date/:month/:day', function ($month, $day) use($app) {
+    $app->contentType('application/javascript; charset=utf-8');
     $result = loadData($month, $day);
-    if ( $_GET['callback']) { 
+    if ( isset($_GET['callback'])) { 
       $result = $_GET['callback'] . "(" . $result . ")";
     }
     echo $result;

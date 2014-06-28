@@ -51,6 +51,7 @@
 function randOrd() { return(Math.round(Math.random())-0.5); }
 
 $(document).ready(function() {
+  historyData.host = "http://localhost:8001/";
   historyData.load(function(d) {
 
     // randomly sort our data just for variety
@@ -64,7 +65,7 @@ $(document).ready(function() {
       attr("href", historyData.url);
 
     var entryText = function(e) {
-      return e.year + ": " + e.text;
+        return e.html;
     };
 
     $(d.Births).each(function(i, b) {
