@@ -121,5 +121,6 @@ ul li {
   list-style:none;
 }
 code {
-  font-face: Consolas, "Lucida Console", Monaco, monospace
+  font-face: Consolas, "Lucida Console", Monaco, monospace;
+  font-size: 80%;
 }

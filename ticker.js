@@ -51,34 +51,35 @@
 function randOrd() { return(Math.round(Math.random())-0.5); }
 
 $(document).ready(function() {
-  historyData.host = "http://localhost:8001/";
-  historyData.load(function(d) {
+    historyData.host = "http://localhost:8001/";
+    historyData.load(function(d) {
 
-    // randomly sort our data just for variety
-    d.Births.sort(randOrd);
-    d.Events.sort(randOrd);
-    d.Deaths.sort(randOrd);
+        // randomly sort our data just for variety
+        d.Births.sort(randOrd);
+        d.Events.sort(randOrd);
+        d.Deaths.sort(randOrd);
+        
+        $("#today").html("Today in History: " + historyData.date);
+        $("#learn-more").
+            html(historyData.date + " on Wikipedia").
+            attr("href", historyData.url);
 
-    $("#today").html("Today in History: " + historyData.date);
-    $("#learn-more").
-      html(historyData.date + " on Wikipedia").
-      attr("href", historyData.url);
+        var entryText = function(e) {
+            return e.html;
+        };
 
-    var entryText = function(e) {
-        return e.html;
-    };
-
-    $(d.Births).each(function(i, b) {
-      $("#births").append("<li>" + entryText(b) + "</li>");
-    });
-    $(d.Deaths).each(function(i, d) {
-      $("#deaths").append("<li>" + entryText(d) + "</li>");
-    });
-    $(d.Events).each(function(i, e) {
-      $("#events").append("<li>" + entryText(e) + "</li>");
-    });
-    $("#ticker ul").list_ticker({ speed:8000, effect:'fade' });
-
-    $("#ticker").fadeIn();
+        $(d.Births).each(function(i, b) {
+            $("#births").append("<li>" + entryText(b) + "</li>");
+        });
+        $(d.Deaths).each(function(i, d) {
+            $("#deaths").append("<li>" + entryText(d) + "</li>");
+        });
+        $(d.Events).each(function(i, e) {
+            $("#events").append("<li>" + entryText(e) + "</li>");
+        });
+        $("#ticker ul").list_ticker({ speed:8000, effect:'fade' });
+        
+        $("#ticker").fadeIn();
+        $("#ticker a").attr("target", "_blank");
   });
 });
