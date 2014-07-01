@@ -51,7 +51,7 @@
 function randOrd() { return(Math.round(Math.random())-0.5); }
 
 $(document).ready(function() {
-    historyData.host = "http://localhost:8001/";
+    //historyData.host = "http://localhost:8001/";
     historyData.load(function(d) {
 
         // randomly sort our data just for variety
