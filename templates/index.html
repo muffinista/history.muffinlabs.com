@@ -6,8 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
 
     <link rel="stylesheet" href="/pure-min.css">
-    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/grids-responsive-min.css">
-
+    <link rel="stylesheet" href="/grids-responsive-min.css">
     <link rel="stylesheet" href="/content.css">
 	  <script type="text/javascript" src="http://www.google.com/jsapi"></script>
 	  <script>
@@ -32,9 +31,18 @@
       <div class="sidebar pure-u-1 pure-u-md-1-4">
         <div class="header">
           <hgroup>
-		        <h1 class="brand-title">Today in History API</h1>
+		        <h1 class="brand-title">Today in History</h1>
             <h2 class="brand-tagline">Things happened today, let's list them out!</h2>
           </hgroup>
+          <nav class="nav">
+            <ul class="nav-list">
+              <li><a href="#ticker">Events</a></li>
+              <li><a href="#api">API</a></li>
+              <li><a href="#twitter">Twitter</a></li>
+              <li><a href="#data">Data</a></li>
+              <li><a href="#license">License</a></li>
+            </ul>
+          </nav>
         </div>
       </div>
       <div class="content pure-u-1 pure-u-md-3-4">
@@ -42,7 +50,8 @@
         <div>
           <a id="learn-more" href="">learn more on Wikipedia</a>
         </div>          
-          
+
+        <a name="ticker"></a>
         <div id="ticker" class="pure-g">
           <h2 class="pure-u-5-5">Events</h2>
           <div class="pure-u-5-5">
@@ -58,25 +67,27 @@
           </div>             
         </div>
 
-        <h3>What is it?</h3>
-        <p>I wanted to write a 'this day in history' twitter bot, which posts events which 
-          happened on this day.  There's a few people on Twitter doing this already, but I
-          am lazy and wanted to automate it.</p>
+        <h3>What is this?</h3>
+        <p>I wanted to write a 'this day in history' twitter bot,
+          which posts events which happened on this day. There's a
+          bunch of databases of historical events out there, but most
+          of them are closed, commerical, or they suck.</p>
         
         <p>Luckily, <a href="http://en.wikipedia.org/wiki/List_of_historical_anniversaries">Wikipedia</a>
-          has entries for each day of the year.  I wrote a parser to turn this into JSON data, and a very
-          simple Sinatra app to spit out that data for any given day.</p>
+          has entries for each day of the year. I wrote a parser to
+          turn this into JSON data, and a very simple app to
+          spit out that data for any given day.</p>
         
-        <p>Just for kicks, I wrote a pretty simple JS interface as well.  You can see it in action on
-          the <a href="/ticker">Today's History</a> page.</p>
+        <p>Just for kicks, I wrote a pretty simple JS interface as
+        well. It's generating the tickers at the top of this page</p>
           
-          
+
+        <a name="api"></a>
         <h3>API</h3>
-        <p>Here's a simple API you can use to find out what happened
-        today:</p>
+        <p>Here's a simple API you can use to find out what happened today:</p>
         <p>Get today's history in JSON format at <a href="/date">/date</a></p>
         <pre><code>
-curl http://localhost:8001/date
+curl http://history.muffinlabs.com/date
 
 {
   "date":"June 27",
@@ -150,7 +161,7 @@ ger (&lt;a href=\"http://wikipedia.com/wiki/The_Three_Degrees\" title=\"The Thre
         </p>
 
         <pre><code>
-curl http://localhost:8001/date/2/14
+curl http://history.muffinlabs.com/date/2/14
 
 {
   "date": "February 14",
@@ -191,24 +202,42 @@ curl http://localhost:8001/date/2/14
         </code></pre>
 
         <p>Depending on your needs, you can either use the
-        pre-rendered HTML, or some sort of combination of the text and
-        subject links.</p>
-
+          pre-rendered HTML, or some sort of combination of the text and
+          subject links.</p>
+        
         <p>There's also a very simple <a href="/api.js">Javascript
-            API</a> which you can use to put history data on a website.
-          You can also check out the <a href="/ticker">history
-            ticker</a> to see the code in use.</p>
-
-        <p>And here's @happened_today on Twitter:</p>
-
+            API</a> which you can use to put history data on a website.</p>
+        
+        <a name="twitter"></a>
+        <h3>Twitter</h3>
+        <p>And here's <a href="https://twitter.com/happened_today">@happened_today</a> on Twitter:</p>
+        
         <a class="twitter-timeline" href="https://twitter.com/happened_today" data-widget-id="482559571030851584">Tweets by @happened_today</a>
         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+        <a name="data"></a>
+        <h3>Getting the Data</h3>
+        <p>If you would like your own copy of the data, you can
+          generate it using
+          the <a href="https://github.com/muffinista/history_parse">history_parse</a>
+          code here. This is a bit of a work in progress, but it's
+          certainly functional.</p>
+
+        <a name="license"></a>
+        <h3>License</h3>
+        <p>This website and data are licensed
+        using <a href="https://creativecommons.org/licenses/by-sa/3.0/us/">CC
+        BY-SA 3.0</a>, the same license used for Wikipedia data. You
+        are free to share and adapt the data, but it must be
+        attributed and any alterations must be shared under a
+        compatible license.</p>
 
         <div class="footer">
           <div class="pure-menu pure-menu-horizontal pure-menu-open">
             <ul>
               <li><a href="http://muffinlabs.com">muffinlabs</a></li>
-              <li><a href="http://github.com/muffinista/really-simple-history-api">github</a></li>
+<!--              <li><a href="http://github.com/muffinista/really-simple-history-api">github</a></li>-->
             </ul>
           </div>
         </div>

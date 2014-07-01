@@ -124,3 +124,22 @@ code {
   font-face: Consolas, "Lucida Console", Monaco, monospace;
   font-size: 80%;
 }
+#births, #deaths {
+    margin-right: 10px;
+}
+
+
+.nav-list {
+    margin: 0;
+    padding: 0;
+}
+.nav-list li {
+
+}
+.nav-list li a {
+    color: #fff;
+    margin-top: 1em;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    font-size: 85%;
+}

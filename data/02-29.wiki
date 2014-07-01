@@ -1,0 +1,284 @@
+{{pp-pc1}}
+{{About|the calendar day|the South Korean film|February 29 (film)}}
+{{Redirect|Leap Day|the "30 Rock" episode|Leap Day (30 Rock)|the "Modern Family" episode|Leap Day (Modern Family)}}
+{{pp-move-indef}}{{calendar|month=feb}}
+{{This date in recent years}}
+
+'''February 29''', also known as the '''leap day''' of the [[Gregorian calendar]], is a date that occurs in most years that are [[divisor|divisible]] by 4, such as 2004, 2008, 2012, 2016 and 2020. Years that are divisible by 100, but not by 400, do not contain a leap day; thus 1700, 1800, and 1900 did not contain a leap day while 1600 and 2000 did. Years containing a leap day are called [[leap year]]s. February 29 is the 60th day of the Gregorian calendar in such a year, with 306 days remaining until the end of the year. For the Chinese calendar, this day itself in February will only occur in years of the [[monkey (zodiac)|monkey]], [[dragon (zodiac)|dragon]] and [[rat (zodiac)|rat]].
+
+==Leap years==
+{{Main|Leap year}}
+Although most modern [[calendar year]]s have 365 days, a complete revolution around the sun (one [[Solar year]]) takes approximately 365 days and 6 hours. An extra 24 hours thus accumulates every four years, requiring that an extra [[calendar day]] be added to align the calendar with the sun's apparent position. Without the added day, the [[season]]s would move back in the calendar, leading to confusion about when to undertake activities dependent on [[weather]], [[ecology]], or hours of [[daylight]].
+
+A solar year, however, is slightly shorter than 365 days and 6 hours (365.25 days). More precisely, as derived from the [[Alfonsine tables]], the [[Earth]] completes its [[orbit]] around the [[Sun]] in 365 days, 5 hours, 49 minutes, and 16 seconds (365.2425 days). Adding a calendar day every four years would thus add an extra 43 minutes and 12 seconds to the calendar, or 3 days every 400 years. To compensate for this, three leap days were removed every 400 years. The [[Gregorian calendar]] reform implemented this adjustment by making an exception to the general rule that there is a leap year every four years. Instead, a year divisible by 100 would not be a leap year unless that year was also [[Century leap year|exactly divisible by 400]]. This means that the years 1600, 2000, and 2400 are leap years, but the years 1700, 1800, 1900, 2100, 2200, 2300 and 2500 are common years.
+
+The Gregorian calendar repeats itself every 400 years, which is exactly 20,871 weeks including 97 leap days. Over this period, February 29 falls on Sunday, Tuesday, and Thursday 13 times each; 14 times each on Friday and Saturday; and 15 times each on Monday and Wednesday. The order of the leap days are:
+Thursday, Tuesday, Sunday, Friday, Wednesday, Monday and Saturday.
+
+The concepts of the leap year and leap day are distinct from the [[leap second]], which results from changes in the Earth's rotational speed.
+
+[[File:MissaleLeapYear.jpg|thumb|200px|right|Adding a leap day (after 23 February) shifts the commemorations in the 1962 [[Roman Missal]].]]
+The leap day was introduced as part of the [[Julian calendar#Julian reform|Julian reform]]. The day following the [[Terminus (god)|Terminalia]] (February 23) was doubled, forming the "''bis sextum''"—literally 'double sixth', since February 24 was 'the sixth day before the [[Kalends]] of March' using Roman inclusive counting (March 1 was the 'first day'). Although exceptions exist, the first day of the ''bis sextum'' (February 24) was usually regarded as the intercalated or "bissextile" day since the third century.<ref>Bonnie Blackburn and Leofranc Holford-Strevens, ''The Oxford companion to the year'' (Oxford: Oxford University Press, 1999) 678–680.</ref> February 29 came to be regarded as the leap day when the Roman system of numbering days was replaced by sequential numbering in the late Middle Ages.
+
+==Events==
+*[[1504]] &ndash; [[Christopher Columbus]] uses his knowledge of a lunar [[eclipse]] that night to convince [[Native Americans (Americas)|Native Americans]] to provide him with supplies.
+*[[1644]] &ndash; [[Abel Tasman]]'s second Pacific voyage began.
+*[[1704]] &ndash; [[Queen Anne's War]]: French forces and [[Native American (U.S.)|Native American]]s stage a [[1704 Raid on Deerfield|raid on Deerfield, Massachusetts]], killing 56 villagers and taking more than 100 captive.
+*[[1712]] &ndash; February 29 is followed by [[February 30]] in Sweden, in a move to abolish the [[Swedish calendar]] for a return to the [[Julian calendar|Old style]].
+*[[1720]] &ndash; Queen [[Ulrika Eleonora of Sweden]] abdicates in favour of her husband, who becomes King [[Frederick I of Sweden|Frederick I]] on 24 March.
+*[[1752]] &ndash; King [[Alaungpaya]] founds [[Konbaung Dynasty]], the last dynasty of Burmese monarchy.
+*[[1768]] &ndash; Polish nobles formed [[Bar Confederation]].
+*[[1796]] &ndash; The [[Jay Treaty]] between the United States and Great Britain comes into force, facilitating ten years of peaceful trade between the two nations.
+*[[1864]] &ndash; [[American Civil War]]: [[Kilpatrick-Dahlgren Raid]] fails &ndash; plans to free 15,000 [[United States|Union]] soldiers being held near [[Richmond, Virginia]] are thwarted.
+*[[1892]] &ndash; [[St. Petersburg, Florida]] is incorporated.
+*[[1916]] &ndash; [[Child labor]]: In [[South Carolina]], the minimum [[working age]] for factory, mill, and mine workers is raised from twelve to fourteen years old.
+*[[1920]] &ndash; [[Czechoslovakia|Czechoslovak]] National assembly adopted the [[Czechoslovak Constitution of 1920|Constitution]].
+*[[1936]] &ndash; [[Baby Snooks]], played by [[Fanny Brice]], debuts on the [[radio]] program ''[[The Ziegfeld Follies of the Air]]''.
+*  1936   &ndash; [[February 26 Incident]] in Tokyo ends.
+*[[1940]] &ndash; For her role as Mammy in ''[[Gone with the Wind (film)|Gone with the Wind]]'', [[Hattie McDaniel]] becomes the first [[African American]] to win an [[Academy Award]].
+*  1940   &ndash; Finland initiates [[Winter War]] peace negotiations.
+*  1940   &ndash; In a ceremony held in [[Berkeley, California]], because of the [[World War II|war]], physicist [[Ernest Lawrence]] receives the 1939 [[Nobel Prize in Physics]] from Sweden's [[Consul General]] in [[San Francisco]].
+*[[1944]] &ndash; World War II: The [[Admiralty Islands]] are invaded in [[Operation Brewer]] led by American General [[Douglas MacArthur]].
+*[[1952]] &ndash; The island of [[Heligoland]] is restored to German authority.
+*[[1960]] &ndash; An earthquake in [[Morocco]] kills over 3,000 people and nearly destroys [[Agadir]] in the southern part of the country.
+*[[1964]] &ndash; In Sydney, Australian swimmer [[Dawn Fraser]] sets a new world record in the 100-meter freestyle [[swimming (sport)|swimming]] competition (58.9 seconds).
+*[[1972]] &ndash; [[Vietnam War]]: [[Vietnamization]] &ndash; South Korea withdraws 11,000 of its 48,000 troops from [[Vietnam]].
+*[[1980]] &ndash; [[Gordie Howe]] of the then [[Carolina Hurricanes|Hartford Whalers]] makes [[National Hockey League|NHL]] history as he scores his 800th goal.
+*[[1988]] &ndash; South African archbishop [[Desmond Tutu]] is arrested along with 100 clergymen during a five-day anti-[[apartheid]] demonstration in [[Cape Town]].
+*  1988   &ndash; [[Svend Robinson]] becomes the first member of the [[Canadian House of Commons]] to [[coming out|come out]] as [[gay]].
+*[[1992]] &ndash; First day of [[Bosnia and Herzegovina independence referendum, 1992|Bosnia and Herzegovina independence referendum]].
+*[[1996]] &ndash; [[Faucett Flight 251]] crashes in the Andes, all 123 passengers and crew died.
+*[[2004]] &ndash; [[Jean-Bertrand Aristide]] is removed as President of [[Haiti]] following a coup.
+*[[2012]] &ndash; [[Tokyo Skytree]] construction completed. Now it is the [[List of tallest towers in the world|tallest tower in the world]], 634 meters high, and second tallest (man-made) structure on Earth, next to [[Burj Khalifa]].
+
+==Births==
+A person who is born on February 29 may be called a "leapling" or a "leap year baby". In non-leap years, some leaplings celebrate their [[birthday]] on either February 28 or March 1, while others only observe birthdays on the authentic [[Intercalation (timekeeping)|intercalary]] date, February 29.
+
+In the United Kingdom and Hong Kong, a person born on February 29 legally attains the age of 18 on March 1 in the relevant year.<ref>{{cite web|url=http://www.electoralcommission.org.uk/__data/assets/pdf_file/0007/43954/Part-B-Entitlement-to-register-March-2010.pdf |title=Part B – Entitlement to register |publisher= |date= |accessdate=2012-02-06}}</ref><ref name=HK>[http://www.legislation.gov.hk/blis_pdf.nsf/c3e01cbdb5665ae64825755c00352e38/98EF59AFAC7965F9482575EF00048ABE/$FILE/CAP_410_e_b5.pdf Cap 410, s.5]</ref>
+ 
+In New Zealand, a person born on February 29, is deemed to have their birthday on February 28 in non-leap years, for the purposes of Driver Licensing under §2(2) of the Land Transport (Driver Licensing) Rule 1999.<ref>{{cite web|url=http://www.legislation.govt.nz/regulation/public/1999/0100/latest/DLM280567.html?search=qs_all%40act%40bill%40regulation_leap+year_resel&p=1&sr=1 |title=Land Transport (Driver Licensing) Rule 1999 § 2(2) |publisher=Legislation.govt.nz |date= |accessdate=2013-06-11}}</ref> The net result is that for drivers aged 75, or over 80, their driver licence expires at the end of the last day of February, even though their birthday would otherwise fall on the first day in March in non-leap years. (Otherwise, New Zealand legislation is silent on when a person born on 29 February has their birthday, although case law<ref>{{citation|title=Re an Infant (1936) 31 MCR 42}}</ref> would suggest that age is computed based on the number of years elapsed, from the day after the date of birth, and that the person's birth day then occurs on the last day of the year period. This differs from English common law where a birthday is considered to be the start of the next year, the preceding year ending at midnight on the day preceding the birthday. While a person attains the same age on the same day, it also means that, in New Zealand, if something must be done by the time a person attains a certain age, that thing can be done on the birthday that they attain that age and still be lawful.)
+
+In [[Republic of China|Taiwan (Republic of China)]], the legal birthday of a leapling is February 28 in common years:
+
+:If a period fixed by weeks, months, and years does not commence from the beginning of a week, month, or year, it ends with the ending of the day which proceeds the day of the last week, month, or year which corresponds to that on which it began to commence. But if there is no corresponding day in the last month, the period ends with the ending of the last day of the last month.<ref>Article 121 of the [[s:Civil Code Part I General Principles|Civil Code Part I General Principles]] of the [[Republic of China]] in effect in Taiwan.</ref>
+
+Thus, in England and Wales or in Hong Kong, a person born on February 29, will have legally reached 18 years old on March 1. If he or she was born in Taiwan he or she legally becomes 18 on February 28, a day earlier. In the United States, according to John Reitz, a professor of law at the University of Iowa, there is no "... statute or general rule that has anything to do with leap day."<ref name="IowaNews">{{cite web|url=http://news-releases.uiowa.edu/2012/february/022712leap_day.html |title=Leap day not a significant concern in field of law, government |publisher=news-releases.uiowa.edu |date=2012-02-27 |accessdate=2013-10-07}}</ref> Reitz speculates that "March 1 would likely be considered the legal birthday in non-leap years of someone born on leap day,"<ref name="IowaNews" /> using the same reasoning as described for the United Kingdom and Hong Kong.
+
+There are many instances in children's literature where a person's claim to be only a quarter of their actual age turns out to be based on counting their leap-year birthdays. A similar device is used in the plot of [[Gilbert and Sullivan]]'s 1879 [[comic opera]] ''[[The Pirates of Penzance]]'': As a child, Frederic was [[apprentice]]d to a band of [[pirate]]s until his 21st birthday. Now, having passed his 21st year, he leaves the pirate band and falls in love. However, since he was born on February 29, that day will not arrive until he is in his eighties. As such, he must leave his fiancée and return to the pirates. It may be worked out from the opera's dialogue<ref name="lyrics">{{cite web|url=http://math.boisestate.edu/gas/pirates/web_op/pirates21.html |title=The Pirates of Penzance by Gilbert and Sullivan |publisher=Math.boisestate.edu |date=2011-08-20 |accessdate=2012-02-06}}</ref> that Frederic's birthday is February 29, 1852, thus making the opera set in 1873. (This assumes that Frederic is aware that 1900 will not be a leap year. If not, the dates would be later by four years.) This plot point was also used in a Sherlock Holmes story based on the [[Basil Rathbone]] era, where a friend of [[Dr. Watson]]'s is a baronet who is due to receive his inheritance on the New Year's Day of the year where his twenty-first birthday will be celebrated, only for the law to deprive him of the money as he was born on February 29; with the 84-year-old Baronet distraught at the news that 1900 is not a leap year, Holmes helps the Baronet fake his death long enough for his grandson- who is the appropriate age to receive the inheritance- to establish his claim and receive the money himself.
+
+A Utah woman has given birth on February 29 three times (2004, 2008, 2012). She shares the record for Leap Day births with a Norwegian woman (1960, 1964, 1968).<ref name="louise-estes-leap-day">{{cite news|url=http://www.huffingtonpost.com/2012/03/01/louise-estes-leap-day_n_1314333.html|publisher=[[The Huffington Post]]|title=Louise Estes, Utah Woman Gives Birth To Third Leap Day Baby|date=1 March 2012|accessdate=29 June 2013}}</ref>
+
+Other notable persons born on February 29:
+
+*[[1468]] &ndash; [[Pope Paul III]] (d. 1549)
+*[[1692]] &ndash; [[John Byrom]], English poet (d. 1763)
+*[[1724]] &ndash; [[Eva Marie Veigel]], Austrian-English dancer (d. 1822)
+*[[1736]] &ndash; [[Ann Lee]], American religious leader, founded the [[Shakers]] (d. 1784)
+*[[1792]] &ndash; [[Gioachino Rossini]], Italian composer (d. 1868)
+*[[1812]] &ndash; [[James Milne Wilson]], Scottish-Australian politician, 8th [[Premier of Tasmania]] (d. 1880)
+*[[1828]] &ndash; [[Emmeline B. Wells]], American journalist, poet, and activist (d. 1921)
+*[[1836]] &ndash; [[Dickey Pearce]], American baseball player and manager (d. 1908)
+*[[1840]] &ndash; [[John Philip Holland]], Irish engineer, designed the ''[[HMS Holland 1]]'' (d. 1914)
+*[[1852]] &ndash; [[Frank Gavan Duffy]], Australian judge, 4th [[Chief Justice of Australia]] (d. 1936)
+*  1852   &ndash; [[George Maximilianovich, 6th Duke of Leuchtenberg]], Russian son of [[Grand Duchess Maria Nikolaevna of Russia (1819–1876)|Grand Duchess Maria Nikolaevna of Russia]] (d. 1912)
+*[[1860]] &ndash; [[Herman Hollerith]], American statistician (d. 1929)
+*[[1884]] &ndash; [[Richard S. Aldrich]], American politician (d. 1941)
+*[[1892]] &ndash; [[Ed Appleton]], American baseball player (d. 1932)
+*  1892   &ndash; [[Augusta Savage]], American sculptor (d. 1962)
+*[[1896]] &ndash; [[Morarji Desai]], Indian politician, 4th [[Prime Minister of India]] (d. 1995)
+*  1896   &ndash; [[Roy Parker]], American baseball player (d. 1954)
+*  1896   &ndash; [[William A. Wellman]], American actor, director, producer, and screenwriter (d. 1975)
+*[[1904]] &ndash; [[Rukmini Devi Arundale]], Indian dancer and choreographer (d. 1986)
+*  1904   &ndash; [[Jimmy Dorsey]], American saxophonist, composer, and bandleader ([[The California Ramblers]], [[The Dorsey Brothers]], and [[The Charleston Chasers]]) (d. 1957)
+*  1904   &ndash; [[Pepper Martin]], American baseball player and manager (d. 1965)
+*[[1908]] &ndash; [[Balthus]], French-Polish painter (d. 2001)
+*  1908   &ndash; [[Dee Brown (writer)|Dee Brown]], American historian and author (d. 2002)
+*  1908   &ndash; [[Alf Gover]], English cricketer and coach (d. 2001)
+*[[1916]] &ndash; [[Dinah Shore]], American singer and actress (d. 1994)
+*[[1920]] &ndash; [[Fyodor Abramov]], Russian author and critic (d. 1983)
+*  1920   &ndash; [[Arthur Franz]], American actor (d. 2006)
+*  1920   &ndash; [[James Mitchell (actor)|James Mitchell]], American actor and dancer (d. 2010)
+*  1920   &ndash; [[Michèle Morgan]], French-American actress and singer
+*  1920   &ndash; [[Howard Nemerov]], American poet (d. 1991)
+*  1920   &ndash; [[Ivan Ivanovich Petrov]], Russian opera singer (d. 2003)
+*  1920   &ndash; [[Rolland W. Redlin]], American politician (d. 2011)
+*[[1924]] &ndash; [[David Beattie]], New Zealand politician, 14th [[Governor-General of New Zealand]] (d. 2001)
+*  1924   &ndash; [[Carlos Humberto Romero]], Salvadoran politician, [[President of El Salvador]]
+*  1924   &ndash; [[Al Rosen]], American baseball player
+*[[1928]] &ndash; [[Joss Ackland]], English actor and singer
+*  1928   &ndash; [[Vance Haynes]], American archaeologist, geologist, and author
+*  1928   &ndash; [[Terry Lewis (police officer)|Terry Lewis]], Australian police officer
+*  1928   &ndash; [[Seymour Papert]], South African mathematician and computer scientist, co-created the [[Logo (programming language)|Logo programming language]]
+*  1928   &ndash; [[Tempest Storm]], American actress, singer, and dancer
+*[[1932]] &ndash; [[Jaguar (cartoonist)|Jaguar]], Brazilian cartoonist
+*  1932   &ndash; [[Gene H. Golub]], American mathematician and academic (d. 2007)
+*  1932   &ndash; [[Masten Gregory]], American race car river (d. 1985)
+*  1932   &ndash; [[Reri Grist]], American soprano
+*[[1936]] &ndash; [[Jack R. Lousma]], American astronaut, engineer, and politician
+*  1936   &ndash; [[Henri Richard]], Canadian ice hockey player
+*  1936   &ndash; [[Alex Rocco]], American actor
+*[[1940]] &ndash; [[Patriarch Bartholomew I of Constantinople]]
+*  1940   &ndash; [[William H. Turner, Jr.]] American horse trainer
+*[[1944]] &ndash; [[Ene Ergma]], Estonian physicist and politician
+*  1944   &ndash; [[Dennis Farina]], American police officer and actor (d. 2013)
+*  1944   &ndash; [[Nicholas Frayling]], English priest and academic
+*  1944   &ndash; [[Phyllis Frelich]], American actress (d. 2014)
+*  1944   &ndash; [[Leiki Loone]], Estonian mathematician
+*  1944   &ndash; [[Steve Mingori]], American baseball player (d. 2008)
+*  1944   &ndash; [[Paolo Eleuteri Serpieri]], Italian author and illustrator
+*[[1948]] &ndash; [[Jirō Akagawa]], Japanese author
+*  1948   &ndash; [[Gérard Darmon]], French-Moroccan actor and singer
+*  1948   &ndash; [[Ken Foree]], American actor and producer
+*  1948   &ndash; [[Hermione Lee]], English academic
+*  1948   &ndash; [[Patricia A. McKillip]], American author
+*[[1952]] &ndash; [[Al Autry]], American baseball player
+*  1952   &ndash; [[Sharon Dahlonega Raiford Bush]], American journalist
+*  1952   &ndash; [[Tim Powers]], American author
+*  1952   &ndash; [[Raisa Smetanina]], Russian skier
+*  1952   &ndash; [[Bart Stupak]], American police officer and politician
+*[[1956]] &ndash; [[Jonathan Coleman (presenter)|Jonathan Coleman]], Australian radio host
+*  1956   &ndash; [[Jerry Fry]], American baseball player
+*  1956   &ndash; [[Bob Speller]], Canadian politician, 30th [[Minister of Agriculture (Canada)|Canadian Minister of Agriculture]]
+*  1956   &ndash; [[J. Randy Taraborrelli]], American journalist and author
+*  1956   &ndash; [[Aileen Wuornos]], American serial killer (d. 2002)
+*[[1960]] &ndash; [[Khaled (musician)|Khaled]], Algerian singer-songwriter
+*  1960   &ndash; [[Lucian Grainge]], English businessman
+*  1960   &ndash; [[Bill Long (baseball)|Bill Long]], American baseball player
+*  1960   &ndash; [[Richard Ramirez]], American serial killer (d. 2013)
+*  1960   &ndash; [[Tony Robbins]], American motivational speaker and author
+*[[1964]] &ndash; [[Dave Brailsford]], English cyclist and coach
+*  1964   &ndash; [[Lyndon Byers]], Canadian ice hockey player and radio host
+*  1964   &ndash; [[Mervyn Warren]], American tenor, composer, and producer ([[Take 6]])
+*[[1968]] &ndash; [[Suanne Braun]], South African-English actress
+*  1968   &ndash; [[Chucky Brown]], American basketball player and coach
+*  1968   &ndash; [[Pete Fenson]], American curler
+*  1968   &ndash; [[Gonzalo Lira]], Chilean-American author and blogger
+*  1968   &ndash; [[Howard Tayler]], American author and illustrator
+*  1968   &ndash; [[Bryce Paup]], American football player and coach
+*  1968   &ndash; [[Wendi Peters]], English actress
+*  1968   &ndash; [[Eugene Volokh]], Ukrainian-American lawyer and educator
+*  1968   &ndash; [[Frank Woodley]], Australian actor, producer, and screenwriter
+*[[1972]] &ndash; [[Iván García (athlete)|Iván García]], Cuban sprinter
+*  1972   &ndash; [[Mike Pollitt]], English footballer
+*  1972   &ndash; [[Antonio Sabàto, Jr.]], Italian-American model and actor
+*  1972   &ndash; [[Dave Williams (musician)|Dave Williams]], American singer-songwriter ([[Drowning Pool]]) (d. 2002)
+*  1972   &ndash; [[Saul Williams]], American singer-songwriter and actor
+*  1972   &ndash; [[Pedro Zamora]], Cuban-American television personality, cast member on ''[[The Real World: San Francisco]]'' (d. 1994)
+*[[1976]] &ndash; [[Zoë Baker]], English-New Zealand swimmer
+*  1976   &ndash; [[Katalin Kovács]], Hungarian canoe racer
+*  1976   &ndash; [[Terrence Long]], American baseball player
+*  1976   &ndash; [[Ja Rule]], American rapper and actor
+*[[1980]] &ndash; [[Chris Conley]], American singer-songwriter and guitarist ([[Saves the Day]] and [[Two Tongues]])
+*  1980   &ndash; [[Patrick Côté (fighter)|Patrick Côté]], Canadian mixed martial artist
+*  1980   &ndash; [[Simon Gagné]], Canadian ice hockey player
+*  1980   &ndash; [[Michail Mouroutsos]], Greek martial artist
+*  1980   &ndash; [[Rubén Plaza]], Spanish cyclist
+*  1980   &ndash; [[Clinton Toopi]], New Zealand rugby player
+*  1980   &ndash; [[Taylor Twellman]], American soccer player
+*[[1984]] &ndash; [[Darren Ambrose]], English footballer
+*  1984   &ndash; [[Cullen Jones]], American swimmer
+*  1984   &ndash; [[Nuria Martínez]], Spanish basketball player
+*  1984   &ndash; [[Adam Sinclair]], Indian field hockey player
+*  1984   &ndash; [[Dennis Walger]], German rugby player
+*  1984   &ndash; [[Cam Ward]], Canadian ice hockey player
+*[[1988]] &ndash; [[Lena Gercke]], German fashion model and television host
+*  1988   &ndash; [[Scott Golbourne]], English footballer
+*  1988   &ndash; [[Benedikt Höwedes]], German footballer
+*  1988   &ndash; [[Bobby Sanguinetti]], American ice hockey player
+*[[1992]] &ndash; [[Sean Abbott]], Australian cricketer
+*  1992   &ndash; [[Perry Kitchen]], American soccer player
+*  1992   &ndash; [[Caitlin EJ Meyer]], American actress
+*  1992   &ndash; [[Majesty Rose]], American singer
+*  1992   &ndash; [[Saphir Taïder]], French-Algerian footballer
+*[[1996]] &ndash; [[Claudia Williams]], New Zealand tennis player
+
+==Deaths==
+* [[992]] &ndash; [[Oswald of Worcester]], French archbishop and saint (b. 925)
+*[[1212]] &ndash; [[Hōnen]], Japanese monk (b. 1133)
+*[[1528]] &ndash; [[Patrick Hamilton (martyr)|Patrick Hamilton]], Scottish martyr and reformer (b. 1504)
+*[[1592]] &ndash; [[Alessandro Striggio]], Italian composer (b. 1540)
+*[[1600]] &ndash; [[Caspar Hennenberger]], German pastor, historian, and cartographer (b. 1529)
+*[[1604]] &ndash; [[John Whitgift]], English archbishop (b. 1530)
+*[[1740]] &ndash; [[Pietro Ottoboni (cardinal)|Pietro Ottoboni]], Italian cardinal (b. 1667)
+*[[1744]] &ndash; [[John Theophilus Desaguliers]], French-English physicist and philosopher (b. 1683)
+*[[1792]] &ndash; [[Johann Andreas Stein]], German piano builder (b. 1728)
+*[[1820]] &ndash; [[Johann Joachim Eschenburg]], German historian and critic (b. 1743)
+*[[1848]] &ndash; [[Louis-François, Baron Lejeune]], French general and painter (b. 1775)
+*[[1868]] &ndash; [[Ludwig I of Bavaria]] (b. 1786)
+*[[1880]] &ndash; [[James Milne Wilson]], Scottish-Australian politician, 8th [[Premier of Tasmania]] (b. 1812)
+*[[1908]] &ndash; [[Pat Garrett]], American sheriff (b. 1850)
+*  1908   &ndash; [[John Hope, 1st Marquess of Linlithgow]], Scottish-Australian politician, 1st [[Governor-General of Australia]] (b. 1860)
+*[[1920]] &ndash; [[Ernie Courtney]], American baseball player (b. 1875)
+*[[1928]] &ndash; [[Adolphe Appia]], Swiss architect and theorist (b. 1862)
+*  1928   &ndash; [[Ina Coolbrith]], American poet (b. 1841)
+*[[1940]] &ndash; [[E. F. Benson]], English archaeologist and author (b. 1867)
+*[[1944]] &ndash; [[Pehr Evind Svinhufvud]], Finnish politician, 3rd [[President of Finland]] (b. 1861)
+*[[1948]] &ndash; [[Rebel Oakes]], American baseball player and manager (b. 1883)
+*[[1952]] &ndash; [[Quo Tai-chi]], Chinese diplomat (b. 1888)
+*[[1956]] &ndash; [[Elpidio Quirino]], Filipino lawyer and politician, 6th [[President of the Philippines]] (b. 1890)
+*[[1960]] &ndash; [[Walter Yust]], American journalist (b. 1894)
+*  1960   &ndash; [[Melvin Purvis]], American police officer and [[FBI]] agent (b. 1903)
+*[[1964]] &ndash; [[Frank Albertson]], American actor and singer (b. 1909)
+*[[1968]] &ndash; [[Lena Blackburne]], American baseball player, coach, and manager (b. 1886)
+*  1968   &ndash; [[Tore Ørjasæter]], Norwegian poet and educator (b. 1886)
+*[[1972]] &ndash;  [[Tom Davies (American football)|Tom Davies]], American football player and coach (b. 1896)
+*[[1976]] &ndash; [[Florence P. Dwyer]], American politician (b. 1902)
+*[[1980]] &ndash; [[Yigal Allon]], Israeli general and politician, [[Prime Minister of Israel]] (b. 1918)
+*  1980   &ndash; [[Gil Elvgren]], American painter and illustrator (b. 1914)
+*[[1984]] &ndash; [[Ludwik Starski]], Polish screenwriter and songwriter (b. 1903)
+*[[1988]] &ndash; [[Sidney Harmon]], American screenwriter and producer (b. 1907)
+*[[1992]] &ndash; [[La Lupe]], Cuban-American singer (b. 1939)
+*  1992   &ndash; [[Ruth Pitter]], English poet (b. 1897)
+*[[1996]] &ndash; [[Wes Farrell]], American singer-songwriter and producer (b. 1939)
+*  1996   &ndash; [[Shams Pahlavi]], Iranian daughter of [[Tadj ol-Molouk of Iran]] (b. 1917)
+*  1996   &ndash; [[Ralph Rowe]], American baseball player, coach, and manager (b. 1924)
+*[[2000]] &ndash; [[Dennis Danell]], American guitarist ([[Social Distortion]]) (b. 1961)
+*  2000   &ndash; [[Kayla Rolland]], American murder victim (b. 1993)
+*[[2004]] &ndash; [[Kagamisato Kiyoji]], Japanese sumo wrestler, the 42nd [[Makuuchi#Yokozuna|Yokozuna]] (b. 1923)
+*  2004   &ndash; [[Jerome Lawrence]], American playwright and author (b. 1915)
+*  2004   &ndash; [[Toni Onley]], Canadian painter (b. 1928)
+*  2004   &ndash; [[Harold Bernard St. John]], Barbadian politician, 3rd [[Prime Minister of Barbados]] (b. 1931)
+*  2004   &ndash; [[Lorrie Wilmot]], South African cricketer (b. 1943)
+*[[2008]] &ndash; [[Janet Kagan]], American author (b. 1946)
+*  2008   &ndash; [[Erik Ortvad]], Danish painter and illustrator (b. 1917)
+*[[2012]] &ndash; [[Roland Bautista]], American guitarist ([[Earth, Wind & Fire]]) (b. 1951)
+*  2012   &ndash; [[Ertjies Bezuidenhout]], South African cyclist (b. 1955)
+*  2012   &ndash; [[Dennis Chinnery]], English actor (b. 1927)
+*  2012   &ndash; [[Fukuzo Iwasaki]], Japanese businessman (b. 1925)
+*  2012   &ndash; [[Davy Jones (musician)|Davy Jones]], English singer, guitarist, and actor ([[The Monkees]]) (b. 1945)
+*  2012   &ndash; [[Karl Kodat]], Austrian footballer (b. 1943)
+*  2012   &ndash; [[Sheldon Moldoff]], American illustrator (b. 1920)
+*  2012   &ndash; [[Horacio Morales]], Filipino economist and politician (b. 1943)
+*  2012   &ndash; [[Violet Wood]], English super-centenarian (b. 1899)
+
+==Holidays and observances==
+*Christian [[Feast Day]]:
+** [[Oswald of Worcester]] (in leap year only)
+** [[February 29 (Eastern Orthodox liturgics)]]: Saint [[John Cassian]]
+*The fourth day of [[Ayyám-i-Há]] ([[Bahá'í Faith]])
+* [[Rare Disease Day]] (in leap years)
+
+==Folk traditions==
+There is a popular tradition known as [[Bachelor's Day]] in some countries allowing a woman to propose marriage to a man on February 29. If the man refuses, he then is obligated to give the woman money or buy her a dress. In upper-class societies in Europe, if the man refuses marriage, he then must purchase 12 pairs of gloves for the woman, suggesting that the gloves are to hide the woman's embarrassment of not having an engagement ring. In Ireland, the tradition is supposed to originate from a deal that [[Brigit of Kildare|Saint Bridget]] struck with [[Saint Patrick]].<ref>http://www.timeanddate.com/date/leap-day-february-29.html</ref><ref>http://www.chinadaily.com.cn/cndy/2012-02/29/content_14716977.htm</ref>
+
+In Greece it is considered unlucky to marry on Leap Day.<ref>{{cite news| url=http://www.thestar.com/living/article/1138161--leap-day-2012-what-you-need-to-know | work=The Star | first=Raju | last=Mudhar | title=Leap Day 2012: What you need to know | date=February 29, 2012}}</ref>
+
+==Rare Leap Day milestones==
+The only notable person known to have both been born and died on February 29 was Sir [[James Milne Wilson|James Wilson]] (1812–1880), [[Premier of Tasmania]].<ref>[http://www.parliament.tas.gov.au/history/tasparl/wilsonj.htm Parliamentary Library profile: James Milne Wilson] Accessed 2 Mar 2012</ref>
+
+In 2012, a Utah woman gave birth for the third time on a consecutive Leap Day, tying a record set in the 1960s. The only other known case of triple Leap Day babies is from a family in Norway, which recorded Feb. 29 births in 1960, 1964 and 1968, according to the Guinness World Records press office.<ref name="louise-estes-leap-day" />
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons}}
+* [http://news.bbc.co.uk/onthisday/hi/dates/stories/february/29 BBC: On This Day]
+* {{NYT On this day|month=02|day=29}}
+* [http://www1.sympatico.ca/cgi-bin/on_this_day?mth=Feb&day=29 On This Day in Canada]
+
+{{months}}
+
+[[Category:Days of the year]]
+[[Category:February]]
+[[Category:Discordian holidays]]
