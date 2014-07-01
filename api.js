@@ -1,5 +1,5 @@
 historyData = {
-    host: "history.muffinlabs.com",
+    host: "http://history.muffinlabs.com/",
 
     /*
      * Lightweight JSONP fetcher
