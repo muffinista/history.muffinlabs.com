@@ -51,11 +51,11 @@
 function randOrd() { return(Math.round(Math.random())-0.5); }
 
 $(document).ready(function() {
-    //historyData.host = "http://localhost:8001/";
-    historyData.load(function(d) {
+  //historyData.host = "http://localhost:8001/";
+  historyData.load(function(d) {
 
-        // randomly sort our data just for variety
-        d.Births.sort(randOrd);
+    // randomly sort our data just for variety
+    d.Births.sort(randOrd);
         d.Events.sort(randOrd);
         d.Deaths.sort(randOrd);
         
