@@ -1,0 +1,28 @@
+version: "3.5"
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      docker: "true"
+      production: "false"
+    volumes:
+      - .:/var/www/html:cached
+      - ./logs:/var/www/logs:cached
+    ports:
+      - 8080:80
+
+#      - 9000
+#      - 9501
+#  web:
+#    image: nginx:1.13.7
+#    volumes:
+#      - ./config:/etc/nginx/conf.d:cached
+#    depends_on:
+#      -api
+#    ports:
+#      - 80:80
+#      - 443:443
+
